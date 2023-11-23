@@ -1,0 +1,158 @@
+C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/riscv_cpu_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/riscv_cpu_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sc_cpu_tb
+
+Top level modules:
+	sc_cpu_tb
+
+} {} {}} C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/imm_decode.v {1 {vlog -work work -stats=none C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/imm_decode.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module imm_decode
+
+Top level modules:
+	imm_decode
+
+} {} {}} C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/add_sub32.v {1 {vlog -work work -stats=none C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/add_sub32.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module add_sub32
+
+Top level modules:
+	add_sub32
+
+} {} {}} C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/pc_reg.v {1 {vlog -work work -stats=none C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/pc_reg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pc_reg
+
+Top level modules:
+	pc_reg
+
+} {} {}} C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/comparator.v {1 {vlog -work work -stats=none C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/comparator.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module comparator
+-- Compiling module comparator_1bit
+
+Top level modules:
+	comparator
+
+} {} {}} C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/cla.v {1 {vlog -work work -stats=none C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/cla.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module cla_32bit
+-- Compiling module cla_4bit
+-- Compiling module cla_16bit
+-- Compiling module cla_8bit
+
+Top level modules:
+	cla_32bit
+
+} {} {}} C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/instruction_mem.v {1 {vlog -work work -stats=none C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/instruction_mem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module instruction_mem
+
+Top level modules:
+	instruction_mem
+
+} {} {}} C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/if_id_reg.v {1 {vlog -work work -stats=none C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/if_id_reg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module if_id_reg
+
+Top level modules:
+	if_id_reg
+
+} {} {}} C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/core.v {1 {vlog -work work -stats=none C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/core.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module core
+
+Top level modules:
+	core
+
+} {} {}} C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/mux.v {1 {vlog -work work -stats=none C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/mux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux_2to1
+-- Compiling module mux_3to1
+-- Compiling module mux_4to1
+-- Compiling module mux_6to1
+
+Top level modules:
+	mux_2to1
+	mux_3to1
+	mux_4to1
+	mux_6to1
+
+} {} {}} C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/alu.v {1 {vlog -work work -stats=none C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/alu.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/store_modifier.v {1 {vlog -work work -stats=none C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/store_modifier.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module store_modifier
+
+Top level modules:
+	store_modifier
+
+} {} {}} C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/regfile.v {1 {vlog -work work -stats=none C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/regfile.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/load_modifier.v {1 {vlog -work work -stats=none C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/load_modifier.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module load_modifier
+
+Top level modules:
+	load_modifier
+
+} {} {}} C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/cpu.v {1 {vlog -work work -stats=none C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/cpu.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module cpu
+
+Top level modules:
+	cpu
+
+} {} {}} C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/data_mem.v {1 {vlog -work work -stats=none C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/data_mem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module data_mem
+
+Top level modules:
+	data_mem
+
+} {} {}} C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/control_unit.v {1 {vlog -work work -stats=none C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/control_unit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module control_unit
+
+Top level modules:
+	control_unit
+
+} {} {}} C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/id_exe_reg.v {1 {vlog -work work -stats=none C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/id_exe_reg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module id_exe_reg
+
+Top level modules:
+	id_exe_reg
+
+} {} {}} C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/mem_wb_reg.v {1 {vlog -work work -stats=none C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/mem_wb_reg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mem_wb_reg
+
+Top level modules:
+	mem_wb_reg
+
+} {} {}} C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/shifter.v {1 {vlog -work work -stats=none C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/shifter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shifter
+
+Top level modules:
+	shifter
+
+} {} {}} C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/exe_mem_reg.v {1 {vlog -work work -stats=none C:/Users/01839/OneDrive/Dtop/23-2/ASIC/ASIC_sourcecode/exe_mem_reg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module exe_mem_reg
+
+Top level modules:
+	exe_mem_reg
+
+} {} {}}
